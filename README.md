@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Phoebe.
 
-I'm a cartographer interested in design, web maps, and front-end development.
+I'm a cartographer interested in design, visual journalism, and front-end development.
 
 <!--
 **pheebely/pheebely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
